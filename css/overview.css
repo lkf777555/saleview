@@ -1,17 +1,21 @@
-.overview{
-    height :  1.375rem;
+.overview {
+    height: 1.375rem;
 }
-.overview ul{
+
+.overview ul {
     display: flex;
     justify-content: space-between;
 }
-.overview ul li h4{
-    font-size : 0.35rem;
-    color : #fff;
+
+.overview ul li h4 {
+    font-size: 0.35rem;
+    color: #fff;
     margin-left: 0.06rem;
 }
-.overview ul li span{
-    font-size : 0.2rem;
-    color :  #4c9bfd;
+
+.overview ul li span {
+    font-size: 0.2rem;
+    color: #4c9bfd;
     position: relative;
+
 }
